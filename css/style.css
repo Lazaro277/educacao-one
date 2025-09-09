@@ -10,7 +10,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 .bg-fundo {
-    background-color: #F0F4F9;
+    background-color: #F0F4F9 !important;
 }
 .azul {
     color: rgb(0, 33, 71);
